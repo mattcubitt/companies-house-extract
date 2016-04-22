@@ -1,0 +1,24 @@
+{
+  "name": "companies-house-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "co-request": "^1.0.0",
+    "csv2json": "^1.1.0",
+    "csvtojson": "^0.5.3",
+    "moment": "^2.13.0",
+    "mongodb": "^2.1.16",
+    "request": "^2.72.0",
+    "unzip": "^0.1.11",
+    "unzip2": "^0.2.5"
+  }
+}
